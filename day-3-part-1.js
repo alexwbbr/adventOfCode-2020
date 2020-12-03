@@ -9,7 +9,6 @@ tobogganRun.forEach((item, index) => {
     // creates a longer item with duplicate pattern
     item = item.repeat(32);
     stringIndex +=3;
-    // odd numbers are the go down one so don't increment index
     if (item[stringIndex] === '#') {
         totalTrees++;
     }

@@ -21,7 +21,6 @@ function countTrees(rightSpacer, downShift = 1) {
         // creates a longer item with duplicate pattern
         item = item.repeat(((322 * rightSpacer) / 31) + 1);
         stringIndex +=rightSpacer;
-        // odd numbers are the go down one so don't increment index
         if (item[stringIndex] === '#') {
             totalTrees++;
         }

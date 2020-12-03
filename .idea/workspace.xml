@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df27bf3d-deb3-4879-8152-dfa3f8ae44ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toboggan-run.js" beforeDir="false" afterPath="$PROJECT_DIR$/toboggan-run.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-3-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-3-part-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-3-part-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-3-part-2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606936271386</updated>
-      <workItem from="1606936272630" duration="9653000" />
+      <workItem from="1606936272630" duration="10551000" />
     </task>
     <servers />
   </component>
