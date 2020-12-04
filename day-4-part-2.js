@@ -46,7 +46,8 @@ function validateHeight(string) {
 }
 
 function validateHairColour(string) {
-    return !!string.match(/hcl:(#[0-9a-f]{6})/);
+    const match = string.match(/(?<=hcl:#)([0-9a-f]+)/);
+    return !!match && match[0].length === 6;
 }
 
 function validateEyeColour(string) {
@@ -54,5 +55,6 @@ function validateEyeColour(string) {
 }
 
 function validatePassportId(string) {
-    return !!string.match(/pid:([0-9]{9})/);
+    const match = string.match(/(?<=pid:)(\d+)/);
+    return !!match && match[0].length === 9;
 }
