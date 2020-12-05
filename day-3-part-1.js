@@ -1,4 +1,4 @@
-const tobogganRun = require('./toboggan-run');
+const tobogganRun = require('./test-files/toboggan-run');
 
 let stringIndex = 0;
 let totalTrees = 0;

@@ -1,4 +1,4 @@
-const tobogganRun = require('./toboggan-run');
+const tobogganRun = require('./test-files/toboggan-run');
 
 const totalTreesRun1 = countTrees(1);
 const totalTreesRun2 = countTrees(3);

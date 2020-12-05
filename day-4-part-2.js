@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-fs.readFile('passport-list.txt', 'utf8', (error, res) => {
+fs.readFile('test-files/passport-list.txt', 'utf8', (error, res) => {
     const passportLists = res.split('\n\n');
 
     const totalValidPassports = passportLists.reduce((validPassports, passport) => {

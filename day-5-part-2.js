@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-fs.readFile('boarding-passes.txt', 'utf8', (error, res) => {
+fs.readFile('test-files/boarding-passes.txt', 'utf8', (error, res) => {
     const boardingPasses = res.split('\n').filter((item) => item !== "");
     let seatList = [];
     let mySeat = 0;

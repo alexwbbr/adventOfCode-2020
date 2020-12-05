@@ -1,4 +1,4 @@
-const passwordDB = require('./password-database');
+const passwordDB = require('./test-files/password-database');
 // parsing the big file JSON.parse(test.split(/\s*(\d*-\d* .: \w*)\s*/))  https://adventofcode.com/2020/day/2/input
 let validPasswords = 0;
 for (const password of passwordDB) {

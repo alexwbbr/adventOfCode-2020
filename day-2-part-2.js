@@ -1,4 +1,4 @@
-const passwordDB = require('./password-database');
+const passwordDB = require('./test-files/password-database');
 
 let validPasswords = 0;
 for (const password of passwordDB) {

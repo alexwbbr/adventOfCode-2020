@@ -1,4 +1,4 @@
-const expenseReport = require('./expense-report');
+const expenseReport = require('./test-files/expense-report');
 
 for (let reportItem of expenseReport) {
     const remain = 2020 - reportItem;
