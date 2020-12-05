@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df27bf3d-deb3-4879-8152-dfa3f8ae44ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-5-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-5-part-1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.day-5-part-1.js">
+  <component name="RunManager" selected="Node.js.day-5-part-2.js">
     <configuration name="day-3-part-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day-3-part-1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -55,9 +56,20 @@
     <configuration name="day-4-part-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day-4-part-2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="day-5-part-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day-5-part-1.js" working-dir="$PROJECT_DIR$">
+    <configuration name="day-5-part-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="day-5-part-1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="day-5-part-2.js" type="NodeJSConfigurationType" path-to-js-file="day-5-part-2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.day-5-part-2.js" />
+      <item itemvalue="Node.js.day-3-part-1.js" />
+      <item itemvalue="Node.js.day-3-part-2.js" />
+      <item itemvalue="Node.js.day-4-part-1.js" />
+      <item itemvalue="Node.js.day-4-part-2.js" />
+      <item itemvalue="Node.js.day-5-part-1.js" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.day-5-part-1.js" />
@@ -76,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606936271386</updated>
-      <workItem from="1606936272630" duration="25541000" />
+      <workItem from="1606936272630" duration="26650000" />
     </task>
     <servers />
   </component>
