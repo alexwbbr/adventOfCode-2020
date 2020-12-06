@@ -47,10 +47,7 @@
       <recent name="$PROJECT_DIR$/test-files" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.day-6-part-1.js">
-    <configuration name="day-3-part-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day-3-part-2.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.day-6-part-2.js">
     <configuration name="day-4-part-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day-4-part-1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -66,21 +63,24 @@
     <configuration name="day-6-part-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day-6-part-1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="day-6-part-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day-6-part-2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.day-5-part-2.js" />
-      <item itemvalue="Node.js.day-3-part-2.js" />
       <item itemvalue="Node.js.day-4-part-1.js" />
       <item itemvalue="Node.js.day-4-part-2.js" />
       <item itemvalue="Node.js.day-5-part-1.js" />
       <item itemvalue="Node.js.day-6-part-1.js" />
+      <item itemvalue="Node.js.day-6-part-2.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.day-6-part-2.js" />
         <item itemvalue="Node.js.day-6-part-1.js" />
         <item itemvalue="Node.js.day-5-part-1.js" />
         <item itemvalue="Node.js.day-4-part-2.js" />
         <item itemvalue="Node.js.day-4-part-1.js" />
-        <item itemvalue="Node.js.day-3-part-2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606936271386</updated>
       <workItem from="1606936272630" duration="27665000" />
-      <workItem from="1607209368856" duration="873000" />
+      <workItem from="1607209368856" duration="2878000" />
     </task>
     <servers />
   </component>
