@@ -1,4 +1,4 @@
-const tobogganRun = require('./test-files/toboggan-run');
+const tobogganRun = require('../test-files/toboggan-run');
 // Count how many hashes you meet when going through the field at different rates
 const totalTreesRun1 = countTrees(1);
 const totalTreesRun2 = countTrees(3);
