@@ -1,5 +1,5 @@
 const expenseReport = require('./test-files/expense-report');
-
+// Find three numbers that add up to 2020 in the list and multiply them together
 for (let i = 0; i <= expenseReport.length -1; i++) {
     const remain = 2020 - expenseReport[i];
     let firstPotentialNumber = expenseReport[i];

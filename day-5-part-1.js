@@ -1,5 +1,9 @@
 const fs = require('fs');
-
+/* Calculates the highest seat ID on the plane by checking the boarding passes
+    each boarding pass is made up of BFFFBBFRRR, the first 7 chars give the row and the last
+    3 give the column. F means take the lower half of the rows, and B means take the upper half.
+    L means the same where you take the lower half of the columns and R means take the upper half
+ */
 fs.readFile('test-files/boarding-passes.txt', 'utf8', (error, res) => {
     const boardingPasses = res.split('\n').filter((item) => item !== '');
     let highestSeatId = 0;

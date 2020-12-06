@@ -1,5 +1,5 @@
 const fs = require('fs');
-
+// Validate peoples passports are valid, must contain at least 7 fields if cid is missing
 fs.readFile('test-files/passport-list.txt', 'utf8', (error, res) => {
     const passportLists = res.split('\n\n');
 

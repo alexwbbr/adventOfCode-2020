@@ -1,5 +1,6 @@
 const fs = require('fs');
-
+// Find your seat by calculating the missing seat ID. Your seat will be the only missing ID with
+// values +1 and -1 in the list.
 fs.readFile('test-files/boarding-passes.txt', 'utf8', (error, res) => {
     const boardingPasses = res.split('\n').filter((item) => item !== "");
     let seatList = [];

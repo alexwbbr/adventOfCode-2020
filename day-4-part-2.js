@@ -1,5 +1,5 @@
 const fs = require('fs');
-
+// Validate peoples passports based on stricter criteria
 fs.readFile('test-files/passport-list.txt', 'utf8', (error, res) => {
     const passportLists = res.split('\n\n');
 

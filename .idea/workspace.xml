@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="df27bf3d-deb3-4879-8152-dfa3f8ae44ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-1-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-1-part-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-1-part-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-1-part-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-2-part-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-2-part-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-2-part-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-3-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-3-part-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-3-part-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-3-part-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-4-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-4-part-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-4-part-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-4-part-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-5-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-5-part-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-5-part-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-5-part-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-6-part-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-6-part-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day-6-part-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day-6-part-2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606936271386</updated>
       <workItem from="1606936272630" duration="27665000" />
-      <workItem from="1607209368856" duration="2878000" />
+      <workItem from="1607209368856" duration="3931000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,6 @@
 const tobogganRun = require('./test-files/toboggan-run');
-
+// Traverse the field to see how many hashes you meet when going 3 right and one down
+// the pattern repeats to the right
 let stringIndex = 0;
 let totalTrees = 0;
 tobogganRun.forEach((item, index) => {

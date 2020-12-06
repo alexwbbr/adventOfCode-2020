@@ -1,5 +1,6 @@
 const fs = require('fs');
-
+// Calculate how many people in each group answered yes to the same question, so everyone must have
+// answered yes to a for it to be counted
 fs.readFile('test-files/customs-forms.txt', 'utf8', (err, res) => {
     const customForms = res.split('\n\n');
     let totalQuestions = 0;
@@ -30,11 +31,5 @@ fs.readFile('test-files/customs-forms.txt', 'utf8', (err, res) => {
 });
 
 function calculateUniqueArray(string) {
-    const tmpArray = [];
-    string.split('').forEach((item) => {
-        if (!tmpArray.includes(item)) {
-            tmpArray.push(item);
-        }
-    });
-    return tmpArray.length;
+    return new Set(string.split('')).size;
 }

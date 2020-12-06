@@ -1,5 +1,7 @@
 const passwordDB = require('./test-files/password-database');
-// parsing the big file JSON.parse(test.split(/\s*(\d*-\d* .: \w*)\s*/))  https://adventofcode.com/2020/day/2/input
+/* Check that passwords in the list meet validation criteria
+   e.g. 1-3 a: abcde mean there has to be at least 1 and at most 3 a's in the password
+*/
 let validPasswords = 0;
 for (const password of passwordDB) {
     const [lowerLimit, upperLimit, charToValidate, pass] =
