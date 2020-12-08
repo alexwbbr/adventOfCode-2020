@@ -52,10 +52,7 @@
       <recent name="$PROJECT_DIR$/day 2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.day-7-part-2.js">
-    <configuration name="day-5-part-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day_5/day-5-part-1.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.day-8-part-1.js">
     <configuration name="day-5-part-2.js" type="NodeJSConfigurationType" path-to-js-file="$PROJECT_DIR$/day_5/day-5-part-2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -71,21 +68,24 @@
     <configuration name="day-7-part-2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day_7/day-7-part-2.js" working-dir="$PROJECT_DIR$/day_7">
       <method v="2" />
     </configuration>
+    <configuration name="day-8-part-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/day_8/day-8-part-1.js" working-dir="$PROJECT_DIR$/day_8">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.day-5-part-2.js" />
-      <item itemvalue="Node.js.day-5-part-1.js" />
       <item itemvalue="Node.js.day-6-part-1.js" />
       <item itemvalue="Node.js.day-6-part-2.js" />
       <item itemvalue="Node.js.day-7-part-1.js" />
       <item itemvalue="Node.js.day-7-part-2.js" />
+      <item itemvalue="Node.js.day-8-part-1.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.day-8-part-1.js" />
         <item itemvalue="Node.js.day-7-part-2.js" />
         <item itemvalue="Node.js.day-7-part-1.js" />
         <item itemvalue="Node.js.day-6-part-2.js" />
         <item itemvalue="Node.js.day-6-part-1.js" />
-        <item itemvalue="Node.js.day-5-part-1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606936271386</updated>
       <workItem from="1606936272630" duration="27665000" />
-      <workItem from="1607209368856" duration="18541000" />
+      <workItem from="1607209368856" duration="20806000" />
     </task>
     <servers />
   </component>
